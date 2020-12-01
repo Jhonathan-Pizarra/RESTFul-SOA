@@ -1,4 +1,4 @@
-# RESTFul-SOA
+# WebServiceREST-SOA
 
 Por: 
 * Jhonathan Pizarra
